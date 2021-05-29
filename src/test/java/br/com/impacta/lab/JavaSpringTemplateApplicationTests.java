@@ -2,11 +2,10 @@ package br.com.impacta.lab;
 
 import static org.junit.Assert.assertEquals;
 
-import java.util.ArrayList;
 import br.com.impacta.models.*;
 import org.junit.Test;
 
-class JavaSpringTemplateApplicationTests {
+public class JavaSpringTemplateApplicationTests {
 
 	@Test
 	public void shouldHaveCarwithEncapsulatePrinciple() {

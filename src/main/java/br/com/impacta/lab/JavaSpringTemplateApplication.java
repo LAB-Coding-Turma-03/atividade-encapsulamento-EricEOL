@@ -1,6 +1,5 @@
 package br.com.impacta.lab;
 
-import java.util.ArrayList;
 import br.com.impacta.models.*;
 
 public class JavaSpringTemplateApplication {
@@ -29,7 +28,6 @@ public class JavaSpringTemplateApplication {
 		carro.setCor("Amarelo");
 		carro.setAno(2010);
 		carro.setValor(10000.00);
-		
 		
 		System.out.println(carro.getCor());
 	}
